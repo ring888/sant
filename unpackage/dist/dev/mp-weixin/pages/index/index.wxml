@@ -1,0 +1,1 @@
+<view class="search_cont"><view class="search"><image class="search_img" src="../../static/tab/home-s.png" mode="widthFix"></image><input type="text" placeholder="请输入内容" disabled="{{true}}"/></view></view>
